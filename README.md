@@ -16,3 +16,5 @@ This project is designed to be highly flexible and scalable:
 
 The core logic is handled by the parametric helper function `load_translations_from_file(filepath)`,
 which efficiently reads and structures the translation data.
+
+To run this application all you need to download the "translator_final.py" and "words.csv" files into "Translator" Folder.
